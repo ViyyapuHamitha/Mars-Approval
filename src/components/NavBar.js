@@ -5,7 +5,7 @@ const NavBar = ()=> {
   return (
     <div className="nav">
       <img src="/mars-logo.png" alt="Mars Logo" />
-      <h3>Employee Login</h3>
+      <h3>Employee Sign Up</h3>
       <Button className="login-button" >Login</Button>
     </div>
   );
